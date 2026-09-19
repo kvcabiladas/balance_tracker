@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435889449146",
+    "project_id": "balancetracker-4862d",
+    "storage_bucket": "balancetracker-4862d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435889449146:android:abc72ff0624e148403fa83",
+        "android_client_info": {
+          "package_name": "com.example.balance_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIXdBuIdvX7SYUp2EClRDgA2soT3BBl3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
